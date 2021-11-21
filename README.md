@@ -7,6 +7,15 @@ Organize seu linux - organize your linux
 Uma forma rápida de separar arquivos dispersos em pastas.
 
 
+formatos a serem capturados pelo script:
+    image = ['.png', '.jpg', '.img', '.jpeg', '.gif']
+    pdf = ['.pdf']
+    doc = ['.doc', 'docx']
+    txt = ['.txt']
+    excel = ['.xlx', '.csv', '.xlsx', '.xml']
+    music = ['.mp3']
+    video = ['.mp4', '.mv', '.mov', '.webm', '.mkv']
+
 ## Como rodar - how to run?
 
 1 - Abra o terminal, com o python3.8 ou superior instalado e execute-o:<br>
