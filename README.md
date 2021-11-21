@@ -8,13 +8,13 @@ Uma forma rápida de separar arquivos dispersos em pastas.
 
 
 formatos a serem capturados pelo script:
-    image = ['.png', '.jpg', '.img', '.jpeg', '.gif']
-    pdf = ['.pdf']
-    doc = ['.doc', 'docx']
-    txt = ['.txt']
-    excel = ['.xlx', '.csv', '.xlsx', '.xml']
-    music = ['.mp3']
-    video = ['.mp4', '.mv', '.mov', '.webm', '.mkv']
+    image = ['.png', '.jpg', '.img', '.jpeg', '.gif']<br>
+    pdf = ['.pdf']<br>
+    doc = ['.doc', 'docx']<br>
+    txt = ['.txt']<br>
+    excel = ['.xlx', '.csv', '.xlsx', '.xml']<br>
+    music = ['.mp3']<br>
+    video = ['.mp4', '.mv', '.mov', '.webm', '.mkv']<br>
 
 ## Como rodar - how to run?
 
