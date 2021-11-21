@@ -10,7 +10,7 @@ Uma forma rápida de separar arquivos dispersos em pastas.
 formatos a serem capturados pelo script:<br>
     image = ['.png', '.jpg', '.img', '.jpeg', '.gif']<br>
     pdf = ['.pdf']<br>
-    doc = ['.doc', 'docx']<br>
+    doc = ['.doc', 'docx','.odt']<br>
     txt = ['.txt']<br>
     excel = ['.xlx', '.csv', '.xlsx', '.xml']<br>
     music = ['.mp3']<br>
