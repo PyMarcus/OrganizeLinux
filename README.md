@@ -7,7 +7,7 @@ Organize seu linux - organize your linux
 Uma forma rápida de separar arquivos dispersos em pastas.
 
 
-formatos a serem capturados pelo script:
+formatos a serem capturados pelo script:<br>
     image = ['.png', '.jpg', '.img', '.jpeg', '.gif']<br>
     pdf = ['.pdf']<br>
     doc = ['.doc', 'docx']<br>
