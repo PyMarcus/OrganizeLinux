@@ -11,7 +11,7 @@ class FindFiles:
     """
     image = ['.png', '.jpg', '.img', '.jpeg', '.gif']
     pdf = ['.pdf']
-    doc = ['.doc', 'docx']
+    doc = ['.doc', 'docx', '.odt']
     txt = ['.txt']
     #others = ['.ppt', '.deb', '.html', '.docx', '.zip', '.tar', '.log', '.ppt']
     excel = ['.xlx', '.csv', '.xlsx', '.xml']
