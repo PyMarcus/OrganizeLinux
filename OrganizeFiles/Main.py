@@ -48,13 +48,17 @@ class OrganizeFiles:
         elif escolha == '7':
             MakeAll.excels()
         elif escolha == '0':
-            MakeAll.imagens()
-            MakeAll.pdfs()
-            MakeAll.video()
-            MakeAll.musicas()
-            MakeAll.texto()
-            MakeAll.docs()
-            MakeAll.excels()
+             threads = [
+            Thread(MakeAll.imagens(), args=()),
+            Thread(MakeAll.pdfs(), args=()),
+            Thread(MakeAll.video(), args=()),
+            Thread(MakeAll.musicas(), args=()),
+            Thread(MakeAll.texto(), args=()),
+            Thread(MakeAll.docs(), args=()),
+            Thread(MakeAll.excels(), args=())]
+
+            [t.start() for t in threads]
+            [t.join() for t in threads]
         else:
             print(Fore.RED + "Opção inválida")
 
