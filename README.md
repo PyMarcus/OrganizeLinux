@@ -29,4 +29,5 @@ NOTE: check if all modules in requirements.txt are present.
 💙
 
 
-https://user-images.githubusercontent.com/88283829/142780978-3b94c4ea-6ab1-442b-a6d8-964f256fed2e.mp4
+https://user-images.githubusercontent.com/88283829/144068158-db118d46-00f3-4899-aed9-d4f89226ed6b.mp4
+
